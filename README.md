@@ -5,7 +5,7 @@ Module 15 Challenge
 
 ## Overview
 
-This project involves creating a visualization tool for earthquake data provided by the United States Geological Survey (USGS). The tool utilizes Leaflet, D3, and GeoJSON to create an interactive map displaying earthquake information, with markers sized by magnitude and colored by depth.
+This challenge involves creating a visualization tool for earthquake data provided by the United States Geological Survey (USGS). The tool utilizes Leaflet, D3, and GeoJSON to create an interactive map displaying earthquake information, with markers sized by magnitude and colored by depth.
 
 ## Project Structure
 
