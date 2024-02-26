@@ -1,3 +1,19 @@
+/* Styling for the legend */
+.info.legend {
+  background: white;          /* Background color of the legend */
+  padding: 10px;              /* Padding around the legend content */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle effect */
+}
+
+/* Styling for the color-coded squares in the legend */
+.info.legend i {
+  width: 20px;                /* Width of the color-coded square */
+  height: 20px;               /* Height of the color-coded square */
+  display: inline-block;      /* Display as inline block for proper spacing */
+  margin-right: 8px;          /* Margin to separate the square from text */
+}
+
+/* Rest of the existing CSS */
 body {
   padding: 0;
   margin: 0;
@@ -8,3 +24,4 @@ body,
 html {
   height: 100%;
 }
+
